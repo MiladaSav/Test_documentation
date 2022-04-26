@@ -3,3 +3,5 @@
 
 
 ### Баг-репорт: [***Баг-репорт формы регистрации***](https://docs.google.com/document/d/18i034RCeNEJWQ2o9YIcthxASmaDqMqoc1H6atzQiuSw/edit?usp=sharing)
+
+### Чек-лист мобильное тестирование (Padavans) [***Mobile testing checklist***] (https://docs.google.com/spreadsheets/d/1J3P_yXZdG5XB9r4JA1ovf2Js5HCWUYL7k9-XImqxsTA/edit?usp=sharing)
